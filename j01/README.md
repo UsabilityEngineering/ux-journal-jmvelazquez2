@@ -15,6 +15,7 @@ The issue, in my opinion, stems from a **lack** **of** **understanding** among d
 This problem fails on multiple usability essential such as **learnability** due to new or occasional drivers not recognizing what the icons mean, particularly if they don’t read the manual. Feedback as well since there’s often no clear indicator to drivers about the impact of their light settings on others. Finally Headlights and Nighttime Driving Challenges high beams in the wrong situation create significant safety risks for other drivers. 
 
 A simple improvement would be to add text labels alongside the existing icons on headlight switches. Labels like "Low Beam," "High Beam," or "Fog Lights" could make it clear to all drivers what mode they are using. Even if physical labels on the switch aren’t possible, an indicator on the dashboard could work. For instance, a message like "High Beams On Switch to Low Beams Near Oncoming Traffic" could display when high beams are engaged. 
+
 ![Alt text](https://github.com/UsabilityEngineering/ux-journal-jmvelazquez2/blob/main/assets/car3.jpg)
  
 
